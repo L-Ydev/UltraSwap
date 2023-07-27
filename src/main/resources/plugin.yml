@@ -1,0 +1,7 @@
+name: PVPSwap
+version: '${project.version}'
+main: eq.larry.dev.UltraCore 
+api-version: '1.18'
+commands:
+  pvpswap:
+    permission: pvpswap.admin
