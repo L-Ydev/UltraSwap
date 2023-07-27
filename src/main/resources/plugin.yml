@@ -1,4 +1,5 @@
 name: PVPSwap
+author: Larry!
 version: '${project.version}'
 main: eq.larry.dev.UltraCore 
 api-version: '1.18'
